@@ -1,4 +1,4 @@
-Orgonite Pyramid Firmware
+LED Crystal Pyramid
 =========================
 This project consists of two pieces of firmware.
 One for the LED-driving chip, and one for the Mobius coil driving chip.
